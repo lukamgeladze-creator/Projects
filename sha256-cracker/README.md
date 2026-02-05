@@ -30,20 +30,11 @@ python3 SHA256_crack.py -h
 ## ✨ Features
 
 - ✅ Wordlist-based dictionary attack
-- ✅ Progress indicators (every 10,000 attempts)
+- ✅ Progress indicators (every 5,000 attempts)
 - ✅ Error handling for missing wordlists
 - ✅ Keyboard interrupt support (Ctrl+C)
 - ✅ Attempt counter
 
-## 📋 Requirements
-```bash
-pip install -r requirements.txt
-```
-
-**requirements.txt:**
-```
-# No external dependencies - uses Python standard library
-```
 
 ## 🔍 How It Works
 
