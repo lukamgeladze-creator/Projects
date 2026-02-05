@@ -230,24 +230,6 @@ Improvements welcome:
 **Purpose:** Educational demonstration of web authentication vulnerabilities
 ```
 
----
-
-## Folder Structure
-```
-projects/
-├── README.md
-├── sha256-cracker/
-│   ├── README.md
-│   ├── SHA256_crack.py
-│   └── requirements.txt
-└── web-login-bruteforce/
-    ├── README.md
-    ├── login_brute.py
-    └── requirements.txt
-```
-
----
-
 ## requirements.txt for this project
 ```
 requests>=2.31.0
