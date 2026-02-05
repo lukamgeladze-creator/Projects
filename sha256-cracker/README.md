@@ -97,11 +97,3 @@ Unauthorized access to computer systems is illegal.
 
 ---
 
-## Final Folder Structure
-```
-projects/
-├── README.md                          (General repo README)
-└── sha256-cracker/
-    ├── README.md                      (SHA256-specific README)
-    ├── SHA256_crack.py                (Your script)
-    └── requirements.txt               (Empty, but good practice)
