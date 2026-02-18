@@ -27,7 +27,7 @@ Fast, multi-threaded TCP port scanner with flexible port range selection.
 
 ---
 
-### [2. Web Login Brute-Force Tool](./Web Login Brute-Force Tool/)
+### [2. Web Login Brute-Force Tool](./web-login-bruteforce/)
 Automated web login brute-forcer with intelligent success detection.
 
 **Key Features:**
@@ -108,3 +108,26 @@ Focus: Offensive Security, Penetration Testing
 ---
 
 *Built as part of a structured cybersecurity learning path combining TCM Security courses, personal projects, and HackTheBox practice.*
+```
+
+---
+
+## Folder Structure
+```
+projects/
+├── README.md                          (this file)
+│
+├── tcp-port-scanner/
+│   ├── README.md
+│   ├── scanner.py
+│   └── requirements.txt
+│
+├── web-login-bruteforce/
+│   ├── README.md
+│   ├── login_brute.py
+│   └── requirements.txt
+│
+└── sha256-cracker/
+    ├── README.md
+    ├── SHA256_crack.py
+    └── requirements.txt
