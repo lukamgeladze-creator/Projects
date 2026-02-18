@@ -27,7 +27,7 @@ Fast, multi-threaded TCP port scanner with flexible port range selection.
 
 ---
 
-### [2. Web Login Brute-Force Tool](./web-login-bruteforce/)
+### [2. Web Login Brute-Force Tool](./Web Login Brute-Force Tool/)
 Automated web login brute-forcer with intelligent success detection.
 
 **Key Features:**
